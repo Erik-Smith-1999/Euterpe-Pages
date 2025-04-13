@@ -1,1 +1,20 @@
 
+body {
+  background-color: #f8f9fa;
+}
+.hero {
+  background-image: url('/images/hero-img.jpeg');
+  background-size: cover;
+  height: 100vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.section {
+  padding: 60px 0;
+}
+.music-player {
+  margin: 20px 0;
+}
