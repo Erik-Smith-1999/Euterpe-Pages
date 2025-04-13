@@ -1,2 +1,2 @@
 # Euterpe-Pages
-**Landing page templates for professional musicians**
+Landing page template for professional musicians
